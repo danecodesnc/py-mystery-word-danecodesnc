@@ -6,10 +6,6 @@ Implement the game of Mystery Word.
 
 ## Objectives
 
-After completing this assignment, you should understand:
-
-- All the basics of Python!
-
 After completing this assignment, you should be able to:
 
 - Create an interactive program.
@@ -18,16 +14,6 @@ After completing this assignment, you should be able to:
 - Keep track of state.
 
 ## Details
-
-### Deliverables
-
-- A Git repo containing at least:
-
-  - a `README.md` file explaining how to run your project
-
-### Requirements
-
-- No PEP8 warnings or errors
 
 ## Normal Mode
 
