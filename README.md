@@ -19,7 +19,7 @@ After completing this assignment, you should be able to:
 
 You will implement the game Mystery Word. In your game, you will be playing
 against the computer.
-
+`
 The computer must select a word at random from the list of words in the file
 `words.txt` from this repository.
 
