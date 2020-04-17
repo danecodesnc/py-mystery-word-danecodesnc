@@ -1,6 +1,6 @@
-#This is Dane's Word Guessing Game. You can either guess one word, or just the letter to make the full word. You have 8 tries to guess. 
+#This is Dane's Word Guessing Game. You can either guess one word, or just the letter to make the full word. 
+#You have 8 tries to guess. 
 import random
-
 
 def play_again():
     answer = input('Would you like to play again? yes or no').lower()
